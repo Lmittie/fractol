@@ -6,7 +6,7 @@
 /*   By: lmittie <lmittie@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/01/03 16:48:46 by lmittie           #+#    #+#             */
-/*   Updated: 2020/02/09 16:10:59 by lmittie          ###   ########.fr       */
+/*   Updated: 2020/10/02 18:51:04 by lmittie          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,6 +14,7 @@
 
 # define FRACTOL_H
 
+# define GL_SILENCE_DEPRECATION
 # include <mlx.h>
 # include <math.h>
 # include "libft.h"
